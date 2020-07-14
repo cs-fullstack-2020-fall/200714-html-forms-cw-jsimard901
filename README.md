@@ -1,5 +1,8 @@
 # 200714 Html Forms Graded Classwork
 
+## Score : 5/5
+Well done!! Thanks for agreeing to share your solution with the class and for reading the requirements!!!
+
 ## Assignment
 - Recreate `html_form.png`
 - Page background should be blue
