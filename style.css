@@ -87,7 +87,8 @@ p
 {
     grid-row: 6;
     grid-column: 3/5;
-   padding-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 button
