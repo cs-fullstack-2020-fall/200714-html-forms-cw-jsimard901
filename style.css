@@ -130,3 +130,15 @@ footer
     border: 1px solid white;
     margin-bottom: 5%;
 }
+
+input
+{
+    border-radius: 5px;
+    height: 50%;
+    border: 1px solid black;
+}
+
+#email
+{
+    width: 75%;
+}
